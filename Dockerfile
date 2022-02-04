@@ -1,4 +1,4 @@
-FROM anasty17/mltb:latest
+FROM ghcr.io/dragonpower84/kai8407:latest
 # FROM anasty17/mltb-oracle:latest
 
 WORKDIR /usr/src/app
